@@ -1,0 +1,6 @@
+[
+    {"id" : 1,"deptname":"NODE"},
+    {"id" : 2,"deptname":"Angular"},
+    {"id" : 3,"deptname":"Bootstrap"},
+    {"id" : 4,"deptname":"php"}
+  ]
